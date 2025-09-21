@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Build output
+target/
+
+# Log files
+*.log
+
+# Maven
+.mvn/
